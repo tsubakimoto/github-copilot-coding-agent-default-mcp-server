@@ -7,17 +7,6 @@
         "*"
       ]
     },
-    "sequentialthinking": {
-      "type": "local",
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-sequential-thinking"
-      ],
-      "tools": [
-        "*"
-      ]
-    },
     "awesome-copilot": {
       "type": "local",
       "command": "docker",
